@@ -37,5 +37,5 @@ def get_occupation(data, hometown)
   end 
 end
 
-get_occupation(data,"New York, New York")
+
 
