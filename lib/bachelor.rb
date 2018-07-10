@@ -28,7 +28,7 @@
     end
   end
    # code here	   # code here
- end	 
+ 
  	 
 
 
@@ -44,10 +44,9 @@ counter = 0
         end
       end
     end
-  end
 counter
 
- end	 end
+ end	 
  	 
 
 
