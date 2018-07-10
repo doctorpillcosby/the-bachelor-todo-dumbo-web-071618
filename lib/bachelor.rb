@@ -70,10 +70,7 @@ def get_occupation(data, hometown)
    code here
   person = nil
   data.each do |hash_season, contestants_array|
-    contestants_aefrray.each do |contestant|
-      if contestnt["hometown"] == hometown
-        person = contestant["occupation"]
-        
+    contestants_aefrray.each do
       end
     end
   end
