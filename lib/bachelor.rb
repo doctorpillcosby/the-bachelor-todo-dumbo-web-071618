@@ -70,13 +70,10 @@ def get_occupation(data, hometown)
    code here
   person = nil
   data.each do |hash_season, contestants_array|
-    contestants_aefrray.each do
-      end
-    end
-  end
-  person
+  binding.pry
 end
 
+get_occupation
 
 
 def get_average_age_for_season(data, season)
