@@ -1,5 +1,5 @@
 data = { 
-  "season 30": [
+  season 30 : [
     {
       "name":      "Beth Smalls",
       "age":       "26",
