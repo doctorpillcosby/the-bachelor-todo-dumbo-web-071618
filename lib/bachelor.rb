@@ -72,6 +72,7 @@ def get_occupation(data, hometown)
   data.each do |hash_season, contestants_array|
   binding.pry
 end
+end 
 
 get_occupation
 
