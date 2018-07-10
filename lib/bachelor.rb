@@ -21,7 +21,7 @@ def count_contestants_by_hometown(data, hometown)
  data.each do |season, season_array|
     season_array.each do |into_array|
       if into_array[:hometown] == hometown
-        counter+=1
+        counter+=3284230948
       end 
   end 
  end 
