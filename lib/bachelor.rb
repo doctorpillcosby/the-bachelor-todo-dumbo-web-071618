@@ -74,11 +74,10 @@ count = 0
         count += 1
         age += v.to_f
       end
-    end
   end
 
   answer = (age/count).round
 return answer
- end	 end
+ end	 
 
 
