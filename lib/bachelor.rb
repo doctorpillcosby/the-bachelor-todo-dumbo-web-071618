@@ -11,7 +11,6 @@
             return full_name.split(' ').first
         end 
      end
-   end
  end	 
  	 
 
