@@ -80,7 +80,7 @@ def get_occupation(data, hometown)
   person
 end
 
-get_ocupation
+puts get_ocupation
 
 def get_average_age_for_season(data, season)
   # code here
